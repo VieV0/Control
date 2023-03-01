@@ -1,6 +1,6 @@
 # Control
 This project is a neural network written in the Python programming language.
-Neural network in 4 parameters (experience, concentration, and also depending on the field of activity) suggests how effective this employee will be.
+Neural network in 3 parameters (experience, concentration, and also depending on the field of activity) suggests how effective this employee will be.
 
 This is the notation for the fourth parameter:
 
